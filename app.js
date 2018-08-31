@@ -30,7 +30,7 @@ const argv = yargs
             });
         }
     });
-    weather.getWeather();
+   
 /*geocode.geocodeAddress(argv.address,(errorMessage, results)=>{
     if(errorMessage){
         console.log(errorMessage);
